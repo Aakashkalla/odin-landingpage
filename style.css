@@ -86,3 +86,13 @@ header nav ul{
 .sp-seconddiv p{
     font-size: 10px;
 }
+
+.quote-section{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    font-size: large;
+    height:200px;
+    width:100%;
+    background-color: #e5e7eb;
+}
