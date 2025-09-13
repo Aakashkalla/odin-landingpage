@@ -63,3 +63,26 @@ header nav ul{
     border-radius: 10px;
     padding: 5px 30px;
 }
+
+.sp-maindiv{
+    display: flex;
+    justify-content: center;
+}
+
+.sp-seconddiv{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.box-sp{
+    border-radius: 10px;
+    border: 3px solid #3882f6;
+    height: 100px;
+    width: 100px;
+}
+
+.sp-seconddiv p{
+    font-size: 10px;
+}
