@@ -24,3 +24,42 @@ header nav ul{
     align-items: center;
     gap: 20px;
 }
+
+.section-under-navbar{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    gap:40px;
+}
+
+.right-section-under-navbar{
+    height:300px;
+    width:600px;
+    background-color: #e5e7eb;
+    text-align: center;
+}
+
+.mainDiv{
+    background-color: #1f2937;
+}
+
+.section-under-navbar h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.section-under-navbar p{
+    color: white;
+    font-size: small;
+}
+
+.section-under-navbar button{
+    background-color: #3882f6;
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 30px;
+}
